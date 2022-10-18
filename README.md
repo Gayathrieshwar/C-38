@@ -1,2 +1,2 @@
-# C-38
-C-38 Car Racing Game
+# C38RV_SpeedRacer_TeacherActivity
+Teacher Activity
